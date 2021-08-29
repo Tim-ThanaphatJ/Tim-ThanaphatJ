@@ -27,7 +27,7 @@ I'm Tim, a college student at KMITL (graduating 2023) studying Robotics and AI E
 * R&D [@KMITL AIMS Lab](https://www.krai.io/) - Mobile Robot Platform
 
 #### Certificates & Achievements
-* [( RANK 7 / 972 ) AWS DeepRacer League March 2021 Qualifier Open Division - Time Trial](https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-2021-03-open/) - Develope Reinforcement Learning Model and algorithm for autonomous Formula 1 racing 
+* [( RANK 7 / 972 ) AWS DeepRacer League March 2021 Qualifier Open Division - Time Trial](https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-2021-03-open/) - Develop Reinforcement Learning Model and algorithm for autonomous Formula 1 racing 
 <!--
 **Tim-ThanaphatJ/Tim-ThanaphatJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
