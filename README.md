@@ -23,7 +23,7 @@ If you're interested, I love setting up coffee-chats with new people, you can sc
 * [Personal Website](http://thanaphat-resume.com) - Portfolio of my creative work
 * [Linkedin](https://www.linkedin.com/in/thanaphat-jiamcharoendet/) - Learn more about me :)
 
-#### Some Projects I've Worked On
+#### My experiences
 * Robotics Engineer(ongoing) [@AI & ROBOTICS VENTURES](https://www.arv.co.th/) - Teleoperation Platform
 * Machine Learning Engineer [@KBTG](https://www.kbtg.tech/contact) - Conversation Analytics
 * R&D [@KMITL AIMS Lab](https://www.krai.io/) - Mobile Robot Platform
