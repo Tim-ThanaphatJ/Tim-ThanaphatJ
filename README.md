@@ -2,6 +2,13 @@
 
 I'm Tim, a college student at KMITL (graduating 2023) studying Robotics and AI Engineering in the Bachelor'S & Master'S Degree programs.
 
+* 🔭 Looking/thinking about how to be a good project manager
+* ✨ My favorite hobby is trying to balance too many things in my life
+* 🌱 I’m currently learning about robotics/AI developement and How to develop my soft skills
+* 📫 How to reach me: thanaphat.ji@outlook.com or thanaphat-resume.com
+* 😄 Pronouns: He/His/Him
+* ⚡ Fun fact: I love to read self improvement and finance book
+
 #### Skills
 * Robotics - ROS, ROS2, Python, Linux (Ubuntu)
 * RTPS protocol - eProsima Fast DDS
