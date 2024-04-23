@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tim, a college student at KMITL (graduating 2023) studying Robotics and AI Engineering in the Bachelor'S & Master'S Degree programs.
+I'm Tim, a college student at KMITL (graduating 2023) studying Robotics and AI Engineering in the Bachelor'S Degree programs.
 
 If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/tim-thanaphatj).
 
